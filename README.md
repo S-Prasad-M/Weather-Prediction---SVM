@@ -1,7 +1,7 @@
-#Weather Prediction using SVM
+# Weather Prediction using SVM
 This project is about Support Vector Machines and its application. We are using SVM to predict the weather using sklearn library in python. The code is drafted in an ipynb file. SVM classifier is used as the training algorithm using weather data collect from a resource. We have achieved an accuracy of 79.6%. Then we implemented our model to predict the current weather.
 
-
+## What is SVM
 A support vector machine (SVM) is a type of supervised machine learning algorithm that is used to solve two-group classification problems. It works by providing it with sets of labelled training data for each category and then using these data points to categorize new unseen data.
 SVM algorithms are often faster than neural networks because they use relatively simple mathematical models that require fewer computations. Additionally, SVM algorithms are better suited to limited datasets because they are adept at finding patterns in small data and can be successfully trained on datasets with only a few thousand samples. This is because SVM algorithms can make use of kernel functions and other features to maximize their performance on small datasets.
 
