@@ -1,0 +1,1 @@
+This project is about Support Vector Machines and its application. We are using SVM to predict the weather using sklearn library in python. The code is drafted in an ipynb file. SVM classifier is used as the training algorithm using weather data collect from a resource. We have achieved an accuracy of 79.6%. Then we implemented our model to predict the current weather.
